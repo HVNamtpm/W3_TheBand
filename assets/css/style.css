@@ -54,7 +54,7 @@
 }
 
 .col-thirl{
-    width: 33.33333%;   
+    width: 25%;   
 }
 
 #content .btn {
@@ -190,7 +190,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/image/chicago.jpg') top center / cover no-repeat ;
+    background: url('../image/158161342_463883924661955_7537655333522561202_n.jpg') top center / cover no-repeat ;
 }   
 
 .slider .text-content {
@@ -208,6 +208,7 @@ html {
 .slider .text-description{
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 
 #content {
@@ -222,6 +223,7 @@ html {
     margin-right: auto;
     padding-left: 16px;
     padding-right: 16px;
+
    
 }
 
@@ -259,9 +261,11 @@ html {
 #content .avata {
     width: 154px;
     border-radius: 4%;
+    width: 60%;
 }
 #content .tour-setion {
     background-color: #000;
+   
 }
 
 #content .book-list{
@@ -387,3 +391,6 @@ html {
 
 }
 
+#contact .center{
+    text-align: center;
+}
