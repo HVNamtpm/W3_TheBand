@@ -54,7 +54,7 @@
 }
 
 .col-thirl{
-    width: 25%;   
+    width:33.3333%;   
 }
 
 #content .btn {
@@ -190,7 +190,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('../image/158161342_463883924661955_7537655333522561202_n.jpg') top center / cover no-repeat ;
+    background: url('../image/chicago.jpg') top center / cover no-repeat ;
 }   
 
 .slider .text-content {
@@ -250,12 +250,15 @@ html {
 }
 
 #content .member-list{
-    padding-top: 32px
+    padding-top: 32px;
+    text-align: center;
+    
 }
 
 #content .member-name {
     font-size: 15px;   
     padding-bottom: 15px;
+
 }
 
 #content .avata {
@@ -265,6 +268,7 @@ html {
 }
 #content .tour-setion {
     background-color: #000;
+    
    
 }
 
@@ -389,8 +393,4 @@ html {
 #footer .copyright .link{
     color: rgba(0, 0, 0, 0.6);
 
-}
-
-#contact .center{
-    text-align: center;
 }
